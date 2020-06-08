@@ -216,6 +216,10 @@ Fuente de datos (2020.04.28): Generalitat Valenciana 87%, RTVE 13%
 
 **Actualmente**: Se utilizan las notas de prensa publicadas por la Junta de Extremdura: [ejemplo de nota de prensa de 8.04.2020](http://www.juntaex.es/comunicacion/noticia?idPub=30056#.Xo29JnJS-Cg). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia, previo cálculo, pues en las notas de prensa aparecen por áreas de Salud.
 
+Los datos de personas recuperadas en Extremadura recogen todas las altas, tanto las de pacientes confirmados por PCR como los casos identificados por otras pruebas diagnósticas. 
+
+Desde el 28 de abril, la Junta de Extremadura solo recoge en sus informes los casos confirmados por PCR. Esto produce un escalón a la baja en la serie, puesto que no se han ajustado las cifras de los días anteriores. Desde el 15 de mayo, las notas de prensa dejan de reflejar la cifra total de casos confirmados por área de salud, de modo que pueden producirse algunas diferencias con los datos reflejados en los informes diarios del Ministerio.
+
 Fuente de datos (2020.04.28): Junta de Extremadura 81%, Prensa 10%, Falta Fuente 9%
 
 ### Galicia
